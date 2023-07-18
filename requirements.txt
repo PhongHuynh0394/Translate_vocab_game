@@ -1,0 +1,5 @@
+request
+bs4
+pandas
+googletrans
+numpy
