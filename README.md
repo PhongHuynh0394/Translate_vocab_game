@@ -7,4 +7,4 @@ There are 3 features:
 - Learn vocabulary (Translate all TOEIC vocabulary into target language to learn)
 
 ## Source
-The Learning Vocabulary Feature get data from [https://www.pass-the-toeic-test.com/toeic-word-list.php](Pass The Toeic Test)
+The Learning Vocabulary Feature get data from [Pass The Toeic Test](https://www.pass-the-toeic-test.com/toeic-word-list.php)
